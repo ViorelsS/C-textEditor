@@ -10,3 +10,5 @@ term: term.c
 	# -pedantic: Enable extra warnings for non-standard code
 	# -std=c99: Use the C99 standard
 ```
+
+TODO: write compile & execute make command
